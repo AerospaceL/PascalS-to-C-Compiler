@@ -1,0 +1,29 @@
+>>>Generating...
+>>>C program generated!
+>>>Generating...
+>>>C program generated!
+>>>Generating...
+>>>Generate failure...
+error 2(line: 6, code: 'write'): msg "Lack of 'end'"
+error 2(line: 6, code: 'write'): msg "Lack of '.'"
+
+>>>Generating...
+>>>Generate failure...
+error 2(line: 7, code: 'end'): msg "Lack of '.'"
+
+>>>Generating...
+>>>C program generated!
+>>>Successfully compiled!
+>>>nihaonihao2018211304
+>>>UserFile/myC.c: In function 'main':
+UserFile/myC.c:8:5: error: expected ')' before 'return'
+     return 0;
+     ^
+UserFile/myC.c:9:1: error: expected ';' before '}' token
+ }
+ ^
+
+>>>Compiled failure...
+>>>Generating...
+>>>C program generated!
+>>>
